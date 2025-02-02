@@ -43,7 +43,7 @@ Want to customize the countdown for another event?
 - Update the `countdownDate` variable to **your desired date**.
 
 ## 📸 Preview
-![Countdown Timer](img/count-down.png) 
+![Countdown Timer](img/countdown.png) 
 
 ---
 
